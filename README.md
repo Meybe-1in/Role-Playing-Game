@@ -6,7 +6,7 @@ RPG-Dragon Repeller is a simple text-based role-playing game implemented in HTML
 
 
 
-<img src="assets/dragonGame.PNG" width="250" height="300">
+<img src="assets/dragonGame.png" width="250" height="300">
 
 
 ## Used
@@ -36,13 +36,13 @@ Enjoy playing RPG-Dragon Repeller!
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Meybe-1in/Role-Playing-Game/tree/f60d93aa8f26c2e49d72987690c70afa597573e6
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Role-Playing-Game
 ```
 
 Open in Browser
