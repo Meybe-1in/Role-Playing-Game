@@ -6,7 +6,7 @@ RPG-Dragon Repeller is a simple text-based role-playing game implemented in HTML
 
 
 
-<img src="assets/dragonGame.png" width="500" height="300">
+<img src="assets/dragonGame.png" width="650" height="300">
 
 
 ## Used
